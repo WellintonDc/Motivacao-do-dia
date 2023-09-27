@@ -1,0 +1,35 @@
+h1 {
+  color: #F8E5EE;
+}
+
+blockquote {
+  max-width: 700px;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  text-align: right;
+  font-size: 1.15rem;
+  color: #EAF27C;
+  margin-bottom: 1rem;
+}
+
+button{
+  padding: 2px;
+  background-color: #ff6500;
+  border: none;
+  border-radius: 10%;
+  cursor: pointer;
+  transition: all .2s;
+  font-size: 2rem;
+}
+
+button:hover {
+  background-color: #b66d3c;
+}
+
